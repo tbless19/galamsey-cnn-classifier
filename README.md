@@ -30,7 +30,7 @@ RESULTS SUMMARY
 
 - Applied data augmentation, dropout, batch normalization, and early stopping to mitigate overfitting on a limited dataset.
 
-- Achieved approximately 96.7 percent test accuracy with a ROC-AUC of approximately 0.99, demonstrating strong separability between galamsey and non-galamsey classes.
+- Achieved approximately 96% test accuracy with a ROC-AUC of approximately 0.99, demonstrating strong separability between galamsey and non-galamsey classes.
 
 - Obtained high precision and recall for both classes (F1-score up to 0.97 for galamsey), validated through confusion matrix and ROC analysis.
 
