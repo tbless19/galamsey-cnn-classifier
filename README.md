@@ -196,13 +196,10 @@ or seasonal vegetation changes.
 HOW TO RUN
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/galamsey-cnn-spark-classifier.git
-cd galamsey-cnn-spark-classifier
+git clone https://github.com/tbless19/galamsey-cnn-classifier.git
+cd galamsey-cnn-classifier
 
-2. Install dependencies:
-pip install -r requirements.txt
-
-3. Launch Jupyter Notebook:
+2. Launch Jupyter Notebook:
 jupyter notebook final.ipynb
 
 4. Run all cells sequentially to reproduce results.
