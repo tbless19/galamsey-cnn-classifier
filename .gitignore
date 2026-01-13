@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+*.ckpt
+*.pt
+*.onnx
+env/
+venv/
+data/raw/
+data/patches/
+output/
+.DS_Store
