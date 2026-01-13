@@ -1,8 +1,11 @@
 Galamsey Image Classification Using CNNs and Apache Spark
 
 Author: Prince Tawiah
+
 Program: M.S. Data Science, Michigan Technological University
+
 Course: SAT-5165 – Introduction to Big Data Analytics
+
 Instructor: Dr. Neerav Kaushal
 
 --------------------------------------------------
