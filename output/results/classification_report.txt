@@ -1,0 +1,11 @@
+Classification Report
+==================================================
+
+              precision    recall  f1-score   support
+
+Non-Galamsey     0.9501    0.9079    0.9285       608
+    Galamsey     0.9643    0.9812    0.9726      1540
+
+    accuracy                         0.9604      2148
+   macro avg     0.9572    0.9445    0.9506      2148
+weighted avg     0.9603    0.9604    0.9602      2148
